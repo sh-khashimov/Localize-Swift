@@ -41,7 +41,6 @@ import UIKit
         }
     }
 }
-#endif
 
 // MARK: - UITextView localize Key extention for language in story board
 
@@ -92,3 +91,4 @@ import UIKit
         }
     }
 }
+#endif
